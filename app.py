@@ -140,8 +140,8 @@ with gr.Blocks() as demo:
             ],
             height=400),
         # textbox=gr.Textbox(),
-        title="Crop Assistant AI",
-        description="Crop Assistant chatbot with multimodal input",
+        title="Computer Assistant AI",
+        description="Computer Assistant chatbot with multimodal input",
         additional_outputs=[state]
     )
 
